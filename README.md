@@ -1,3 +1,7 @@
+Modified by Cheryl Wang! On Oct. 27, 2021.
+
+Very exciting stuff :D
+
 A basic app.py with some example routes, a static folder with a css
 file in it, and a templates folder with some files.
 
